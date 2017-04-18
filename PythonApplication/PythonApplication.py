@@ -1,1 +1,1 @@
-print "lll"
+import this
